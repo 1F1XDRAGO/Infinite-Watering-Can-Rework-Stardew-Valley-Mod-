@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Infinite WaterCan Rework",
+  "Author": "1F1XDRAGO",
+  "Version": "1.1.0",
+  "Description": "Infinity watering can and configable watering radius.",
+  "UniqueID": "1f1xdrago.InfiniteWaterCanRework",
+  "EntryDll": "InfiniteWaterCanRework.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "Name": "Generic Mod Config Menu",
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ],
+  "UpdateKeys": [ "Nexus: 36012" ]
+}

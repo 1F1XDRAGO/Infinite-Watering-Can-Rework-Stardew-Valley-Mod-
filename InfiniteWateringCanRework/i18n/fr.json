@@ -1,0 +1,10 @@
+{
+  "config.enable_name": "Activer l’arrosoir infini",
+  "config.enable_tooltip": "Active ou désactive l’arrosoir infini.",
+  "config.toggle_name": "Raccourci clavier",
+  "config.toggle_tooltip": "Touche pour activer/désactiver l’arrosoir infini.",
+  "config.radius_name": "Rayon d’arrosage",
+  "config.radius_tooltip": "Nombre de cases arrosées autour (0 = normal).",
+  "config.cropgrowth_name": "Croissance",
+  "config.cropgrowth_tooltip": "Comportement de croissance des cultures lors de l’arrosage."
+}

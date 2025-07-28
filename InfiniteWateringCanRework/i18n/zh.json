@@ -1,0 +1,10 @@
+{
+  "config.enable_name": "启用无限洒水壶",
+  "config.enable_tooltip": "切换是否启用无限洒水壶。",
+  "config.toggle_name": "快捷键",
+  "config.toggle_tooltip": "用于切换无限洒水壶的按键。",
+  "config.radius_name": "洒水范围",
+  "config.radius_tooltip": "周围洒水的格子数量（0 = 正常）。",
+  "config.cropgrowth_name": "作物生长",
+  "config.cropgrowth_tooltip": "使用洒水壶时作物的生长行为。"
+}

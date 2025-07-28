@@ -1,0 +1,10 @@
+{
+  "config.cropgrowth_name": "Tăng trưởng",
+  "config.cropgrowth_tooltip": "Khả năng tăng trưởng của cây khi dùng bình tưới.",
+  "config.enable_name": "Bật vô hạn bình tưới",
+  "config.enable_tooltip": "Bặt tắt vô hạn bình tưới.",
+  "config.radius_name": "Bán kính tưới",
+  "config.radius_tooltip": "Số ô tưới xung quanh (0 = bình thường).",
+  "config.toggle_name": "Phím hotkey",
+  "config.toggle_tooltip": "Phím bật tắt vô hạn bình tưới."
+}

@@ -1,0 +1,10 @@
+{
+  "config.enable_name": "Enable infinite watering can",
+  "config.enable_tooltip": "Toggle infinite watering can on or off.",
+  "config.toggle_name": "Hotkey",
+  "config.toggle_tooltip": "Key to toggle infinite watering can.",
+  "config.radius_name": "Watering radius",
+  "config.radius_tooltip": "Number of tiles watered around (0 = normal).",
+  "config.cropgrowth_name": "Growth",
+  "config.cropgrowth_tooltip": "Crop growth behavior when using watering can."
+}
